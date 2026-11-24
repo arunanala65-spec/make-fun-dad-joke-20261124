@@ -8,7 +8,7 @@ One dad joke for the Dad Joke Showdown, told the way a father would tell it
 at the table — a cheese-shop dream, and the bank's verdict as the punchline.
 The program writes it to `/output/entry.txt`.
 
-> I tried to open a cheese shop, but the bank said my plan was too Gouda to be true.
+> I tried to open a cheese shop, but the bank said my business plan was too Gouda to be true.
 
 ## Run it
 

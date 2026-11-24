@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const line =
-  "I tried to open a cheese shop, but the bank said my plan was too Gouda to be true.";
+  "I tried to open a cheese shop, but the bank said my business plan was too Gouda to be true.";
 
 // The gate allows 1 to 200 characters of UTF-8 text; refuse to write
 // anything outside that range instead of shipping an invalid entry.
